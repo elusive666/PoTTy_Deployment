@@ -1,0 +1,6 @@
+numpy
+scipy
+nltk
+pandas
+flask
+sklearn
